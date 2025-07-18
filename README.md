@@ -1,4 +1,4 @@
-<img width="940" height="496" alt="image" src="https://github.com/user-attachments/assets/605c9448-a76b-4c15-80cd-f8c5c77721e8" /># Mobile-Usage-Analysis
+# Mobile-Usage-Analysis
 <p>Developed a mobile usage analysis project using Tableau, exploring patterns in screen time, battery drain, device models, and user demographics.Utilized various Tableau visualization techniques, including tree maps for average battery drain across devices and dual-axis line charts to illustrate the relationship between device model data usage and user age.Generated actionable insights into how device specifications influence battery performance and how user demographics impact data consumption, providing valuable information for manufacturers and service providers.</p>
 <h3>Dataset</h3>
 <img width="940" height="501" alt="image" src="https://github.com/user-attachments/assets/665c8ba8-b491-4fc2-bb36-34efbea2f4c1" />
